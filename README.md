@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Víctor
 
-🎓 Estudiante de Ingeniería en Tecnologías de la Información, actualmente en proceso de titulación.
+🎓 Ingeniero en Desarrollo y Gestion de Software, recien egresado.
 
-💻 Me especializo en desarrollo web con PHP (Laravel) y JavaScript. También tengo experiencia con tecnologías como Flutter, React Native, Node.js, Python, SQL, y muchas más.
+💻 Me especializo en desarrollo web con PHP (Laravel) y JavaScript. También tengo experiencia con tecnologías como Flutter, React Native, Python, SQL, y muchas más.
 
 🚀 He trabajado en proyectos reales tanto en el sector hotelero como en comercio electrónico, donde desarrollé soluciones web funcionales y brindé soporte técnico.
 
@@ -17,13 +17,13 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📫 ¿Cómo contactarme?
 
-Puedes escribirme a: **vector.huopt@gmail.com**  
+Puedes escribirme a: **vector.hugopt@gmail.com**  
 También puedes visitar mi [LinkedIn](\www.linkedin.com/in/victor-hugo-pérez-tepox-786b8224a)*
 
